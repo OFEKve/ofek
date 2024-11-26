@@ -1,0 +1,18 @@
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+    "data":{
+        "First_name":"of",
+        "Family": "12",
+        "City": "sads",
+        "City": "hh",
+        "Country": "hh",
+        "Salary": "hh",
+        "Email": "hh"
+    }
+}
+
+###
+
+GET http://localhost:3000/
